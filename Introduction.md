@@ -1,3 +1,4 @@
+#Introduction
   Over the past several years our lab has experimented with a variety of high-throughput sequencing platforms with the ultimate goal of answering an important scientific question. On a few occasions we have been successful.
   
   

@@ -1,0 +1,1 @@
+As part of a Saltonstahl Kennedy funded project entitled "insert name" several genomic libraries were generated and sequenced. Two different strains were partially sequenced in an effort to learn what genetic differences might be associated with different phenotypes (growth) under ocean acidification conditions. 
