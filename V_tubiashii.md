@@ -4,7 +4,7 @@ According to the our records the first library we ever sequenced was from *Vibri
 
 Download Link: http://eagle.fish.washington.edu/trilobite/meadow/Vt_sol_09.fa
 
-``
+```
 !head 
 >SOLEXA-1GA-2_2_FC30DHC:5:1:918:97
 ATCCTCCAAGGCTAAATACTACTGACTGACCGATAG
@@ -16,8 +16,7 @@ GCCGAACTCAGAAGTGAAACGCAATAGCGCCGATGG
 ATTCGCTATCCTTGCCGATTGTTCATCCTGAGCAAC
 >SOLEXA-1GA-2_2_FC30DHC:5:1:959:98
 ACGATCCCTAGCTGGTCTGAGAAGATGATCAGCCAC
-``
-
+```
 
 --- 
 
