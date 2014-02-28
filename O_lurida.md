@@ -19,16 +19,27 @@ Libraries Ol-larv 400_1 and Ol-larv 2000_1 were described as part of the publica
 
 >Larvae were transferred to the University of Washington 12 h post spawning. Larvae (12 larvae/mL) were evenly distributed to six 4.5-L larval chambers. Larvae were sampled from all chambers by filtering them onto a 35 μm screen and flash freezing in liquid N2 on days one, two and three post-fertilization. Two RNA-seq libraries (Ol-larv 400_1 and Ol-larv 2000_1) were constructed from pooled mRNA (13 μg per sample).
 
-Raw data is available at 
-NCBI: http://www.ncbi.nlm.nih.gov/sra/SRX175407
+Raw data is available in the following locations   
+NCBI: http://www.ncbi.nlm.nih.gov/sra/SRX175407   
+IPlant: [Ol-larv 400_1](http://de.iplantcollaborative.org/dl/FF531324-6E84-420B-B833-FC0AFE1E8867) / [Ol-larv 2000_1](http://de.iplantcollaborative.org/dl/FD87C442-8957-4DB6-B8E3-881C47E9FA92)
+ 
+
 
 ---
 
+In late 2012, four more libraries were made and sequenced, however this time these libraries were all run in a single lane on the Illumina HiSeq.
+
+Data is available in the following locations
+IPlant: 
+[Ol-larv 400_2]
+[Ol-larv 1000_2] 
+[Ol-larv 1600_2] 
+[Ol-larv 2200_2]
 
 
 
 
-
+---
 
 
 
