@@ -12,5 +12,10 @@ Olympia oyster sequencing efforts have spawned from studies examining the influe
 
 
 
-
 [^1]: Date, HTGUorder, seq
+
+
+In order to characterize the reproductive transcriptome of the Olympia oyster four libraries were made in from pooled gonad samples. The ideas were 106A_Female, 106A_Male, 108A_Female, 108A_Female.
+<insert description of what went into these libraries>
+
+ These libraries were done in late 2012 and were sequenced on the Illumina HiSeqplatform on a 72PE run. An additional run was performed at XXSE as bonus.
