@@ -10,6 +10,9 @@ Olympia oyster sequencing efforts have spawned from studies examining the influe
 |Ol-larv 1600_2 | larvae  | 0812; 103939; 36SE|
 |Ol-larv 2200_2 | larvae  | 0812; 103939; 36SE|
 
+* |Ol-larv 400_1 | larvae  | 0112; 012159; 36SE|
+
+
 
 
 [^1]: Date, HTGUorder, seq
