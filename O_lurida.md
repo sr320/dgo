@@ -12,8 +12,10 @@ Olympia oyster sequencing efforts have spawned from studies examining the influe
 
 
 
-Libraries Ol-larv 400_1 and Ol-larv 2000_1 were described as part of the publication:   
+Libraries Ol-larv 400-1 and Ol-larv 2000-1 were described as part of the publication:   
+
 **Timmins-Schiffman, E. B., Friedman, C. S., Metzger, D. C., White, S. J. and Roberts, S. B. (2013), Genomic resource development for shellfish of conservation concern. Molecular Ecology Resources, 13: 295–305. doi: 10.1111/1755-0998.12052**
+
 
 >Larvae were transferred to the University of Washington 12 h post spawning. Larvae (12 larvae/mL) were evenly distributed to six 4.5-L larval chambers. Larvae were sampled from all chambers by filtering them onto a 35 μm screen and flash freezing in liquid N2 on days one, two and three post-fertilization. Two RNA-seq libraries (Ol-larv 400_1 and Ol-larv 2000_1) were constructed from pooled mRNA (13 μg per sample).
 
