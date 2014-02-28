@@ -1,3 +1,12 @@
+##The early library
+Very early on, maybe the second library we sequenced was from the hard clam. This was done on the Illumina platform and the facility tube label (ftls) was "Illumina clam mRNA SEQ 21.3ng/uL 200bp".
+
+
+
+
+
+
+
 ##Methods
 ####Sample Collection
 Hard clam (Mercencaria mercenaria) seed from two different broodstock sources were planted in Scudder’s Lane, Massachusetts in Fall 2008. One broodstock was obtained from Barnstable Harbor in Massachusettes and had previously been exposed to a severe outbreak of QPX in . The second broodstock was obtained from Mashpee, Massachusettes where no outbreaks of QPX had been reported. The second broodstock cohort was obtained from Mashpee, Massachusetts where there were no reported incidences of QPX.  Seed clams from both broodstock cohorts were planted together in 4 separate plots. The cohorts will be and will be referred to as BARN and MASH, respectively. Shell size and mortality was assessed by sampling clams (n=X) on 5 sampling dates over a 16 month period. In June and August of 2010, 40 clams were harvested from each cohort for histological analysis. In August 2010, gill tissue was removed from a subset of clams (n=16) using sterile procedures and stored in RNAlater. RNA was extracted from the gill tissue using TriReagent (Molecular Research Center) following manufacturers recommended protocol and stored at -80 for RNA-seq analysis.
