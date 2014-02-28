@@ -72,14 +72,14 @@ IPlant
 * [Ol-Malemix_106a](http://de.iplantcollaborative.org/dl/7644B286-524F-4053-9972-2215BF514A92)
 * [Ol-Femalemix_108a](http://de.iplantcollaborative.org/dl/7F43EC7F-F3D1-443E-8796-687626BF18B4)
 * [Ol-Malemix_108a](http://de.iplantcollaborative.org/dl/7CA3F117-BE11-4A33-9432-11C9DD3F8729)
-* [Ol-Femalemix_106A_R1](http://de.iplantcollaborative.org/dl/FE3A9DB6-E428-4DF3-B9BD-A3C505751A56)
-* [Ol-Femalemix_106A_R2](http://de.iplantcollaborative.org/dl/8146CA1A-E6EE-4CD0-8146-F66ADAC817CF)   
-* [Ol-Malemix_106A_R1](http://de.iplantcollaborative.org/dl/2CD3938A-BC12-4272-9486-06FE5AF878FF)
-* [Ol-Malemix_106A_R2](http://de.iplantcollaborative.org/dl/E649C778-3663-42E7-B494-18790020C9BC)
-* [Ol-Femalemix_108A_R1](http://de.iplantcollaborative.org/dl/BBCE0450-6CD9-4939-A35E-229EA57740B6)
-* [Ol-Femalemix_108A_R2](http://de.iplantcollaborative.org/dl/1B36CECC-B42E-4761-A4C3-06F40AC696C6)
-* [Ol-Malemix_108A_R1](http://de.iplantcollaborative.org/dl/943090E8-CAE4-49D1-8A94-E4462317452B)
-* [Ol-Malemix_108A_R2](http://de.iplantcollaborative.org/dl/B92CBF6E-CAB7-4334-9FEC-3B6EB560FAA6)
+* [Ol-Femalemix 106A_R1](http://de.iplantcollaborative.org/dl/FE3A9DB6-E428-4DF3-B9BD-A3C505751A56)
+* [Ol-Femalemix 106A_R2](http://de.iplantcollaborative.org/dl/8146CA1A-E6EE-4CD0-8146-F66ADAC817CF)   
+* [Ol-Malemix 106A_R1](http://de.iplantcollaborative.org/dl/2CD3938A-BC12-4272-9486-06FE5AF878FF)
+* [Ol-Malemix 106A_R2](http://de.iplantcollaborative.org/dl/E649C778-3663-42E7-B494-18790020C9BC)
+* [Ol-Femalemix 108A_R1](http://de.iplantcollaborative.org/dl/BBCE0450-6CD9-4939-A35E-229EA57740B6)
+* [Ol-Femalemix 108A_R2](http://de.iplantcollaborative.org/dl/1B36CECC-B42E-4761-A4C3-06F40AC696C6)
+* [Ol-Malemix 108A_R1](http://de.iplantcollaborative.org/dl/943090E8-CAE4-49D1-8A94-E4462317452B)
+* [Ol-Malemix 108A_R2](http://de.iplantcollaborative.org/dl/B92CBF6E-CAB7-4334-9FEC-3B6EB560FAA6)
 
  
  
