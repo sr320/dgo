@@ -31,20 +31,20 @@ This effort was part of the thesis work of Elene Dorfmeier. The thesis, "_Ocean 
  A detailed description of her work with respect to these libaries can be found in her thesis <add link>. Page-- Raw data is available in SRA?? and a lot of secondary analysis files are available via figshare. 
 
 
-* Contiguous sequences from Vibrio tubiashii ATCC19106 assembly
+* Contiguous sequences from Vibrio tubiashii ATCC19106 assembly    
 http://dx.doi.org/10.6084/m9.figshare.90804
 
-* Vibrio tubiashii ATCC19106 annotated contiguous sequences
+* Vibrio tubiashii ATCC19106 annotated contiguous sequences   
 http://dx.doi.org/10.6084/m9.figshare.91173
 
-* Vibrio tubiashii ATCC19106 virulence associated contiguous sequences
+* Vibrio tubiashii ATCC19106 virulence associated contiguous sequences    
 http://dx.doi.org/10.6084/m9.figshare.91933
 
-* Contiguous sequences from Vibrio tubiashii RE22 assembly
+* Contiguous sequences from Vibrio tubiashii RE22 assembly    
 http://dx.doi.org/10.6084/m9.figshare.90805
 
-* Vibrio tubiashii RE22 annotated contiguous sequences
+* Vibrio tubiashii RE22 annotated contiguous sequences    
 http://dx.doi.org/10.6084/m9.figshare.91172
 
-* Vibrio tubiashii RE22 virulence associated contiguous sequences
+* Vibrio tubiashii RE22 virulence associated contiguous sequences    
 http://dx.doi.org/10.6084/m9.figshare.91171
