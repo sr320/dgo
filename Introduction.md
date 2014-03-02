@@ -1,6 +1,8 @@
 #Introduction
   Over the past several years our lab has experimented with a variety of high-throughput sequencing platforms with the ultimate goal of addressing important scientific questions. On a few occasions we have been successful. Below is a table of some of these products.
   
+  <br>
+  
 * Goetz FW, Rosauer D, Sitar S, Goetz G, Simchick C, Roberts SB, Johnson R, Murphy C, Bronte C, Mackenzie S. (2010) A genetic basis for the phenotypic differentiation between siscowet and lean lake trout (Salvelinus namaycush). Molecular Ecology, 19 176–196
 
 * Seeb JE, Pascal CE, Graue ED, Seeb LW, Templin WD, Harkins T, Roberts SB. (2010) Transcriptome sequencing and high-resolution melt analysis advance single nucleotidepolymorphism discovery in duplicated salmonids. Molecular Ecology Resources. doi: 10.1111/j.1755-0998.2010.02936.x
