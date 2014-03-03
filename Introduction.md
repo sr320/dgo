@@ -16,15 +16,15 @@
   
   <br>
 
-  However there are a number of efforts that have failed early on (_ie_ poor read quality) or just never gained enough momentum to see the light of the peer-review system. This paper is a final attempt to share these datasets in a manner where they have the potenial, however slim, to be useful to someone. We will not be providing fluffy background or in-depth over-analysis but strive to offer a sound _data description_. This current work will be organized by tareget species, which will often correspond to progject.
+  However there are a number of efforts that have failed early on (_ie_ poor read quality) or just never gained enough momentum to see the light of the peer-review system. This paper is a final attempt to share these datasets in a manner where they have the potenial, however slim, to be useful to someone. We will not be providing fluffy background or in-depth over-analysis but strive to offer a sound _data description_. This current work will be organized by target species, which will often correspond to project.
   
   
   Species include  
-  - Vibrio tubiashii  
-  - Ostrea lurida  
-  - Perca  
-  - Herring  
-  - Abalone / WS  
-  - Mercenaria mercenaria
+  - _Vibrio tubiashii_ 
+  - Olympia oyster (_Ostrea lurida_)
+  - Yellow Perch (_Perca flavescens_)  
+  - Pacific herring (_Clupea pallasii_)
+  - Abalone / Withering Syndrome (WS)
+  - Hard clam (_Mercenaria mercenaria_)
   
   
