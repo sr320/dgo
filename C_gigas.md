@@ -22,6 +22,13 @@ Most of our Pacific oyster sequencing efforts were associated with publications 
 
 
 
-
-
 In the canonical Pacific oyster paper <link> two SOLiD libraries were characterized. Those libaries are available <link>. Few know that there was a sister library to the the Drayton Harbor library known as DH2. The difference from the library that went to press was that DH2 was constructed from "interior gel slices" where DH3 was constructed from "exterior gel slices" 
+
+
+---
+
+More recently we have moved into doing some Bisulfite Treated DNA sequencing to examine DNA methylation patterns. Most of the raw data is available via the table above and the work characeterzing gill methylation using MBD without Bsulfite treatment (REF), gill DNA methylation livels (REF), and Sperm Methylation (REF) have been published. IN this trio of papers the one dataset that was not describeted ((and not clear if it is NCBI?????)) is the umethylated fraction from the MBD library. Going forward this might be interesting to look at in genome browser track.
+
+---
+A set of samples that have been seqeunced to examine how pesticide treatment might impact DNA methylation have also been sequenced, though as of the time of this writing the data appears to have issues.
+
