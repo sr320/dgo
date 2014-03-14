@@ -16,7 +16,7 @@ As part of a Saltonstall-Kennedy Grant funded project entitled "_Ocean acidifica
 
 
 
-The next occurance of this taxa was not until years later with two genomic DNA libraries: RE22 and XXXXX? These were SOLiD libraries sequenced in early 2011. 
+The next occurance of this taxa was not until years later with two genomic DNA libraries: RE22 and ATCC 19106. These were SOLiD libraries sequenced in early 2011. 
 
 This effort was part of the thesis work of Elene Dorfmeier. The thesis, "_Ocean acidification and disease: How will a changing climate impact Vibrio tubiashii growth and pathogenicity to Pacific oyster larvae?_" is [available online](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/20742/Dorfmeier_washington_0250O_10226.pdf?sequence=1)
 
