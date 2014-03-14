@@ -42,6 +42,8 @@ IPlant:
 ---
 
 In late 2012, four more libraries were made and sequenced, however this time these libraries were all run in a single lane on the Illumina HiSeq.
+
+_Ostrea lurida_ larvae were subjected to four different pCO2 treatments (400, 1000, 1600 and 2200ppm) from a Friedman Lab ocean acidification experiment.  RNA was isolated from three groups of larvae from each pCO2 treatment using TriReagent (Molecular Research Center) according to the manufacturer's protocol.  RNA was resuspended in 100uL of 0.1% DEPC-treated H2O.  Concentrations and quality (OD260/280 ratio) were assessed with a NanoDrop1000 (ThermoFisher).  Five micrograms of total RNA from each larval group within each pCO2 treatment were pooled.  Four total RNA pools, each pool representing each pCO2 treatment, were submitted for single-end Illumina sequencing at the High Throughput Genomics Unit (HTGU; University of Washington) for sequencing.  All four samples were sequenced together in a single lane.
  
 Data is available in the following locations   
 IPlant: 
