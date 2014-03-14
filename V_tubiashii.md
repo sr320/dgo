@@ -17,7 +17,9 @@ The next occurance of this taxa was not until years later with two genomic DNA l
 
 This effort was part of the thesis work of Elene Dorfmeier. The thesis, "_Ocean acidification and disease: How will a changing climate impact Vibrio tubiashii growth and pathogenicity to Pacific oyster larvae?_" is [available online](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/20742/Dorfmeier_washington_0250O_10226.pdf?sequence=1)
 
- A detailed description of her work with respect to these libaries can be found in her thesis <add link>. Page-- Raw data is available in SRA?? and a lot of secondary analysis files are available via figshare. 
+A detailed description of her work with respect to these libaries can be found in her thesis <add link>. Page-- Raw data is available in SRA?? and a lot of secondary analysis files are available via figshare. 
+ 
+Communication with Elene (3/14/2014) says she has not submitted sequences to NCBI SRA.
 
 
 * Contiguous sequences from Vibrio tubiashii ATCC19106 assembly    
