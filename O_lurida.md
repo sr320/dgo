@@ -1,5 +1,5 @@
 #_Ostrea lurida_ (Olympia oyster)
-Olympia oyster sequencing efforts have spawned from studies examining the influence of ocean acidification and a study examining local adaptation in Puget Sound. As of March 2014 the libraries constructed and sequence include the following
+Olympia oyster sequencing efforts have spawned from studies examining the influence of ocean acidification and a study examining local adaptation in Puget Sound. As of March 2014 the libraries constructed and sequencing data include the following
 
 |       ID | Stage | Notes |
 |------------ | ------------- | ------------ |
