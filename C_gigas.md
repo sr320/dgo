@@ -6,7 +6,7 @@ Most of our Pacific oyster sequencing efforts were associated with publications 
 
 | ID                      | Platform | Molecule | Tissue | Length | Files                                                                                                         |
 |-------------------------|----------|---------------|------------------|-------------|------------------------------------------------------------------------------------------------------------------|
-| BB3                     | SOLiD    | RNA           | gill             | 25 x 1      | [csfasta](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_BB3.csfasta); [qual](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_BB3.qual)                 |
+| [BB3](#bb)                     | SOLiD    | RNA           | gill             | 25 x 1      | [csfasta](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_BB3.csfasta); [qual](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_BB3.qual)                 |
 | DH3                     | SOLiD    | RNA           | gill             | 25 x 1      | [csfasta](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_DH3.csfasta); [qual](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_DH3.qual)                 |
 | DH2                     | SOLiD    | RNA           | gill             | 25 x 1      | [csfasta](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_DH2.csfasta); [qual](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_DH2.qual)                 |
 | GE                      | SOLiD    |  RNA          | larvae           | 50 x 1      | [csfasta](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_RbbertsLab_GE_F3_QV.qual); [qual](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_RbbertsLab_GE_F3.csfasta)           |            
@@ -18,10 +18,13 @@ Most of our Pacific oyster sequencing efforts were associated with publications 
 | BiGosperm              | Illumina | DNA           | sperm            | 72 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/filtered_174gm_A_NoIndex_L006_R1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/filtered_174gm_A_NoIndex_L006_R2.fastq)      |
 | BiGillRNA                | Illumina | RNA           | gill        | 50 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGillRNA_GACTAAGA_1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGillRNA_GACTAAGA_2.fastq) 
 | BiGoRNA                  | Illumina | RNA           | sperm           | 50 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_2.fastq) 
+| BiY_mix_Nrun                  | Illumina | DNA           | larvae          | 50 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_2.fastq) 
+| BiY_con_Nrun                  | Illumina | DNA           | larvae          | 50 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_2.fastq)
+| BiY_mix_Nrun                  | Illumina | DNA           | larvae          | 50 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_2.fastq) 
+| BiY_con_Nrun                  | Illumina | DNA           | larvae          | 50 x 2      | [fastq1](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_1.fastq); [fastq2](http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/BiGoRNA_GTGTCTAC_2.fastq)  
 
 
-
-
+<a name="bb"></a>
 In the canonical Pacific oyster paper <link> two SOLiD libraries were characterized. Those libaries are available <link>. Few know that there was a sister library to the the Drayton Harbor library known as DH2. The difference from the library that went to press was that DH2 was constructed from "interior gel slices" where DH3 was constructed from "exterior gel slices" 
 
 
